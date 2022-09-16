@@ -1,2 +1,2 @@
-# HBD
-static website on shopping
+                                                                           HBD
+                                                               STATIC WEBSITE FOR SHOPPING
